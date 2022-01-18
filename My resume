@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./resume2.css">
+    <script src="https://kit.fontawesome.com/be06698bca.js" crossorigin="anonymous"></script>
+    <title>RESUME</title>
+</head>
+<body id="container">
+    <div class="navibar-container">
+            <img id="tony" src="./구자욱.jpg" alt="Tony Image">
+            <ul class="links">
+                <li class="link"> <a class="link_text" href="#About">About</a></li>
+                <li class="link"> <a class="link_text" href="#Experience">Experience</a> </li>
+                <li class="link"> <a class="link_text" href="#Skill">Skill</a></li>
+            </ul>
+    </div>
+    <div class="sections">
+        <div id="About" class="section">
+            <h1 class="resume-name"><span>JA OOG KU</span>(TONY KU)</h1>
+            <p id="address">104-2101ho reiversweet-Cantavil Misagangbyenhanggang-ro 30 kyungki-do Korea</p>
+            <p id="introduction-summery">Over 22 years of experience in engineering and technical sales in the manufacturing and trading industry. And successful, hands-on experience in providing Operational, Sales, Marketing, Financial and Managerial Leadership and Results in highly competitive field of Business Development. Entrepreneurially spirited, results-oriented individual with a strong track record of performance in multiple business development disciplines, including sales, marketing, investment, development, and operations management. Proven ability to successfully identify market trends, capitalize on potential opportunities, and implement strategies to maximize return on investment, generate revenue and increase profitability. Expert in formulating and negotiating complex business transaction structures to realize investment objectives and enhance positive impact on corporate earnings and balance sheet. Excellent project, process and team management skills to resolve multiple and complex issues in achieving goals. Skilled at applying critical analysis, insights and multi-disciplined team approach to deliver innovative sales and marketing strategies, best-of-class client services, value-added service delivery platforms, and organizational improvements. Experienced in capitalizing on networking, liaisons and business connections to develop profitable business relationships.</p>
+        <h3>Reference</h3>
+            <ul class="references">
+            <li class="reference"> <i class="far fa-newspaper"></i><a href="https://www.etnews.com/200701310100" target="_blank">  2007.02.01 전자신문  https://www.etnews.com/</a></li>
+            <li class="reference"> <i class="far fa-newspaper"></i><a href="https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=105&oid=030&aid=0000113618" target="_blank">  2005.08.04 전자신문  https://www.etnews.com/</a></li>
+            </ul>
+        </div>
+        <div id="Experience" class="section">
+            <h2>PROFESSIONAL EXPERIENCE</h2>
+            <div class="company">Triple S corp.
+                <div class="company-address">hanam-si kyungki-do, korea</div>
+                <div class="company-date">Feb. 2012 – Present </div>
+            </div>
+                <p class="business-type">(Business type: Wafer DMP, CMP machine maker / Semiconductor component OEM Agent / Machine distributor)</p>   
+            <h3>President</h3>
+            <h4 class="Experience">Responsibilities</h4>
+            <ul>
+                <li>Mainly, focus on marketing and sales activities for consumable materials, mechanical parts and customized machines for sapphire, solar, Si and SIC wafer fabrication. In addition, in charge of sales and technical service for wafer laminating machine which was contracted by Longhill inc. </li>
+                <li>Coordinate development load map and implement client demand into various department and build sales strategies as well as coordinating all activities between each business units in order to bring out the best performance. </li>
+                <li>Maintain the day to day operations of logistic, import & export, and overall business administration and control sales budget and project management.</li>
+            </ul>
+            <h4 class="Experience">Accomplishments</h4>
+            <ul>
+                <li>Strengthening and reinforcing sales man power resource in customized machine section for sapphire and semiconductor market by retraining and motivating current sales force, result in 46% of revenue increase in the year of 2015.</li>
+                <li>Successfully sold the demonstrated machine, after we have carried out TSV semiconductor package development during 1 years in cooperation with SK-Hynix.  Hynix anticipate purchasing more than 10 machines for mass production of TSV products.</li>
+                <li>Increase consumable product sales revenue 20% from the retaining business by providing effective technical support, improving quality and response time.</li>
+            </ul><br>
+<!-- new company -->
+            <div class="company"> NTS
+                <div class="company-address">Namdonggongdan Inchun-si, Korea</div>
+                <div class="company-date">Jan. 2010 – Jan. 2012</div>
+            </div>
+            <p class="business-type">(Business type: Wafer DMP, CMP machine maker / Semiconductor component OEM Agent / Machine distributor)</p>   
+            <h3>Sales Director</h3>
+            <h4 class="Experience">Responsibilities</h4>
+            <ul>
+                <li>Responsible of overall marketing strategy and sales activities.</li>
+                <li>Building new sales organization of Korea, Taiwan and China to live up the requirements of clients from different territories. </li>
+                <li>Create marketing tools such as catalog or brochure and presentation materials.</li>
+                <li>Visiting local and oversee clients to promote the machine sales and to retain current clients with local support at each sales site.</li>
+                <li>Seek to build new partnership with the new distributing company to leverage sales.</li>
+            </ul>
+            <h4 class="Experience">Accomplishments</h4>
+            <ul>
+                <li>Restructure sales organization in Korea, china and Taiwan and I set up application laboratory center in china for demonstration and evaluation for the local china customers. </li>
+                <li>Formulate field technical support team, which horizontally work with designated sales engineer for each territory to reinforce customer support in that region. </li>
+                <li>Leverage effective communication channel among sales individuals and collaboration between organizations by implementation of new organization, retraining job definition and motivating.</li>
+                <li>In result, after 6 months we could build good company reputation and get repeated orders which were deprived by our competitors previously. Revenue increase 30% compared to 2010</li>
+            </ul><br>
+        </div>
+<!-- NEW COMPANY -->
+        <div class="section">
+            <div class="company">K9
+                <div class="company-address">Sungnam-si kyungki-do korea</div>
+                <div class="company-date">Feb. 2002 – Jan. 2010</div>
+            </div>
+            <p class="business-type">(Business type: CMOS camera for mobile phone (CCM) / LED)</p>   
+                <h3>CEO</h3>
+                <h4 class="Experience">Responsibilities</h4>
+                <ul>
+                    <li>K9 developed innovative High efficient luminance LED and ultra-thin CMOS Camera module for mobile phone application. </li>
+                    <li>Create and manage company organization structure (financial, operational, legal, human resources).</li>
+                    <li>Hold responsible for whole operation of full P&L and report full P&L to stock holder.</li>
+                </ul>
+                <h4 class="Experience">Accomplishments</h4>
+                <ul>
+                    <li>Successfully win an opportunity to penetrate the Samsung CCM component market of mobile phone from year 2003, With extended effort to put in, I successfully facilitate Samsung OEM spec-in process and started to supply large quantity of CCM module to Samsung electronics as 2nd tier OEM supplier.</li>
+                    <li>Manufacturing process management capability - POP(MER) development.</li>
+                    <li>Sales management skill - developed QPM (quantitative planning management)</li>
+                    <li>Sales achievement – Achieved 30M us$ sales revenue in 2005 (Samsung Elect. 2nd tier CCM OEM supplier in 2003-2009)</li>
+                    <li>Develop local and oversee market (LG CCM OEM supplier, Nokia / Motorola (Campal , Elcoteq, Flectronix, Foxcon) HTC, Sagem-Bird,Asus, BenQ Arima, suyin.</li>
+                    <li>14 Technical patents. </li>
+                </ul><br>
+
+                <div class="company">Kulick & Soffa 
+                    <div class="company-address">seoul korea</div>
+                    <div class="company-date">Oct. 1995 – Feb. 2002</div>
+                </div>
+                <p class="business-type">(Business type: Kulicke & Soffa (Korea) Ltd. is a branch office in Korea of Kulicke & Soffa which well-known semiconductor assembly machine maker and materials provider is and which is listed in the NASDAQ in US)</p>   
+                <h3>Sales Director</h3>
+                <h4 class="Experience">Responsibilities</h4>
+                <ul>
+                    <li>Handling various product including machinery and consumable products (Micro-Swiss, American Fine wire, Semitec, X-Lam, APS(Advance polymer system), Datacon and Filp Chip Technology (FCT)). Those are all subsidiaries of Kulicke & Soffa Corp.</li>
+                    <li>I started as a training instructor for the Korea and South-East Asia region after that, I became as an application engineer.  And then, I transferred to sales department as account sales engineer for ChipPAC, Samsung Electronics. Afterward, I took in charge of World Wide Amkor group. </li>
+                    <li>Main Items were die bonder, wire bonder and saw machine, and packaging materials such as gold wire, PCB, cutting blade, epoxy material and bonding tools.</li>
+                </ul>
+                <h4 class="Experience">Accomplishments</h4>
+                <ul>
+                    <li>Develop new account as LG Semicon and increased sales amount from zero in 1998 to USD 310,000 in 1998. </li>
+                    <li>Several new accounts were developed</li>
+                    <li>Increased material sales in 200% at CHIPPAC korea, </li>
+                    <li>Received prize for 250% sales increase for WW Amkor account.</li>
+                    <li>Succeed to sell Large area ball wedge bonder to SAMSUNG SDI</li>
+                </ul>
+        </div>
+                
+        <div id="Skill"class="section">
+                <h2>Education</h2>
+            <div class="education-frame">
+                <div class="education">Sejong – Syracuse Global MBA, Seoul, Korea</div>
+                <div calss="education">Mar. 2001 – Aug. 2003</div>
+            </div>
+                <p class="education-exp">(M.B.A. in Marketing, Finance,< and Management)</p><br>
+            <div class="education-frame">
+                <div class="education">Suwan University in Korea</div>
+                <div calss="education">Mar. 1988 – Feb. 1996</div>
+            </div>
+            <p class="education-exp">(Bachelor of Engineering Degree in Electronic Materials Engineering)</p>
+                <h2>Special Skills & Langauges</h2>
+                <ul><span></span>
+                    <li class="skill"> <span class="skill-subject">Languages:</span> Fluent in English and Korean.</li>
+                    <li class="skill"> <span class="skill-subject">Documentation:</span> Strong background in business computer programs (Microsoft).</li>
+                    <li class="skill"> <span class="skill-subject">Programing Language:</span> Frontend Development:  HTML CSS</li>
+                    <li class="skill"> <span class="skill-subject">Backend Development:</span> Python-Django</li>
+                    <li class="skill"> <span class="skill-subject">Date of Birth: </span> Feb. 27, 1969</li>
+                </ul>
+                <h2>Special Training for Sales</h2>
+                <div class="training-frame">
+                    <div class="training">Enterprise Selling Process By Ontarget, Inc. in Canada</div>
+                    <div calss="training-period">1997 </div>
+                </div>
+                <div class="training-frame">
+                    <div class="training">Target Account Selling By Ontarget, Inc. in Singapore	</div>
+                    <div calss="training-period">1999</div>
+                </div>
+                <div class="training-frame">
+                    <div class="training">Certificate for the counselor salesperson (Wilson Learning Worldwide)</div>
+                    <div calss="training-period">1999</div>
+                </div>
+                <div class="training-frame">
+                    <div class="training">Certificate for BayGroup International’s Situational sales Negotiation	</div>
+                    <div calss="training-period">2000</div>
+                </div><div class="training-frame">
+                    <div class="training">Certificate for APS sales Training</div>
+                    <div calss="training-period">2000</div>
+                </div>
+                <div class="training-frame">
+                    <div class="training">Target Account Selling Review By SIEBEL business. in Austria.</div>
+                    <div calss="training-period">2000</div>
+                </div>
+                <div class="training-frame">
+                    <div class="training">Situational Sales Negotiation By BAYGROUP. At Singapore.</div>
+                    <div calss="training-period">2000</div>
+                </div>
+
+                <h2>Prize</h2>
+                <div class="training-frame">
+                    <div class="training">Engineering Excellent Award (Kulicke & Soffa Ltd.)	</div>
+                    <div calss="training-period">1997</div>
+                </div>
+                <div class="training-frame">
+                    <div class="training">2001 Amkor Market share increase. (Kulicke & Soffa Ltd.)</div>
+                    <div calss="training-period">2002</div>
+                </div>
+                <div class="training-frame">
+                    <div class="training">A Korea Minister Prize (Ministry of Commerce, Industry and Energy)</div>
+                    <div calss="training-period">2006</div>
+                </div>
+        </div>
+        <div class="section">
+                <h2>TECHNICAL PAPER(Patent)</h2>
+                <img src="./Technical Paper.png" alt="Patent" width="80%">
+        </div>
+    </div>
+
+</body>
+</html>
